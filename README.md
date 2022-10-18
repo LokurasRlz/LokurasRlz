@@ -8,5 +8,5 @@
 - ⚡ Fun fact: I love watching Series.
 - 🥇 Certifications: 
     - Industrial Engineering - Universidad de Mendoza 
-    - HTML/CSS - Microverse
+    - HTML/CSS/JavaScript/React/Redux - Microverse
 - 🧮 Open to new opportunities. 
