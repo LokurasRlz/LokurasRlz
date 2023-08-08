@@ -1,9 +1,9 @@
 ### Hi there, stranger 👋
 
-- 🔭 I’m currently learning JavaScript, React, Redux and Ruby on Rails.
-- 🌱 I’m currently learning at Microverse
+- 🔭 I’m currently working on JavaScript, React, Redux and Ruby on Rails.
+- 🌱 I’m currently working at Microverse
 - 💬 Ask me about any of my past projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/matias-aguirre-ab51a623a/)
+- 📫 How to reach me: 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love watching Series.
 - 🥇 Certifications: 
