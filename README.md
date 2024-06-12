@@ -1,4 +1,4 @@
-### Hi there, Customers 👋
+### Hi, Customers 👋
 
 - 🔭 I’m currently working on Full Stack development.
 - 💬 Ask me about any of my past projects.
