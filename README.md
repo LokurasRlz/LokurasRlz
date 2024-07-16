@@ -4,10 +4,10 @@ I excel in problem-solving, technical leadership, and mentoring. I am skilled in
 I worked as a senior software engineer and team leader at a national oil company where I learned how to deal and communicate with large teams and people from different nationalities, religions, and different social scales.
 When I work at Microverse that uses pair programming to teach software development where I used to code 8 hours a day remotely with other developers and have learned the skills of communication and teamwork. 
 
-  👋 Delivering perfect results by deadline. 
-  👋 Keeping good communication and work on the client's timezone.
-  👋 Ability for working with any team and prefer to share much knowledge with many developers.
-  👋 Looking for an opportunity to build a long-term relationship with great clients all over the world.
+  <li> Delivering perfect results by deadline. </li> 
+  <li> Keeping good communication and work on the client's timezone. </li>
+  <li> Ability for working with any team and prefer to share much knowledge with many developers.</li>
+  <li> Looking for an opportunity to build a long-term relationship with great clients all over the world.</li>
 
 # 🚀 SKILLS
 <!--
