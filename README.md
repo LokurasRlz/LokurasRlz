@@ -4,7 +4,7 @@ Keeping good communication and work on the client's timezone.
 Ability for working with any team and prefer to share much knowledge with many developers.
 Looking for an opportunity to build a long-term relationship with great clients all over the world.
 
-👋 Delivering perfect results by deadline.
+👋 Delivering perfect results by deadline. \n
 👋 Keeping good communication and work on the client's timezone.
 👋 Ability for working with any team and prefer to share much knowledge with many developers.
 👋 Looking for an opportunity to build a long-term relationship with great clients all over the world.
